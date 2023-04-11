@@ -1,0 +1,11 @@
+{
+  "name": "clothingstore",
+  "version": "1.0.0",
+  "description": "ClothingStore example",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Jose Velazquez",
+  "license": "ISC"
+}
